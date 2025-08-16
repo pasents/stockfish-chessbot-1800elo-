@@ -185,6 +185,3 @@ Here’s the chessbot in action:
 
 <img src="images/gameplay.gif" width="400">
 
-
-
----
