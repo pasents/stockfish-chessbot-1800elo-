@@ -179,4 +179,11 @@ __pycache__/
 - Library: python-chess — https://python-chess.readthedocs.io/
 - Images: ensure you have rights to the piece PNGs you include.
 
+## Demo
+
+Here’s the chessbot in action:
+
+![Gameplay Demo](images/gameplay.gif)
+
+
 ---
