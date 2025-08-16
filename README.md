@@ -174,9 +174,9 @@ __pycache__/
 ---
 
 ## 📝 License & Credits
-- GUI code: MIT (or your preferred license)
-- Engine: **Stockfish**, GPLv3 — see https://stockfishchess.org/
-- Library: **python-chess** — https://python-chess.readthedocs.io/
+- GUI code: MIT © 2025 Christos (pasents) — see LICENSE
+- Engine: Stockfish (not included) — GPLv3, download from https://stockfishchess.org/
+- Library: python-chess — https://python-chess.readthedocs.io/
 - Images: ensure you have rights to the piece PNGs you include.
 
 ---
